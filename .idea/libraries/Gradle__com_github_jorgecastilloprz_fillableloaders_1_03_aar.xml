@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.jorgecastilloprz:fillableloaders:1.03@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58872a3219c72d087aecaacd5ee5d52f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58872a3219c72d087aecaacd5ee5d52f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58872a3219c72d087aecaacd5ee5d52f/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

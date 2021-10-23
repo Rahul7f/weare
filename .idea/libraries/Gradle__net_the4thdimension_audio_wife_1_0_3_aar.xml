@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.the4thdimension:audio-wife:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34dcd3bce276b99eca9ec5bd109e4712/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34dcd3bce276b99eca9ec5bd109e4712/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34dcd3bce276b99eca9ec5bd109e4712/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

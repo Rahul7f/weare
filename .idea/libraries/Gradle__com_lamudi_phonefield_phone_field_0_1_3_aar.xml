@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lamudi.phonefield:phone-field:0.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8b86db8c597ed713aba9da2c7061f11/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8b86db8c597ed713aba9da2c7061f11/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b8b86db8c597ed713aba9da2c7061f11/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

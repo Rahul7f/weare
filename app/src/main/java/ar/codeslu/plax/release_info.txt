@@ -1,0 +1,6 @@
+release {
+            storeFile file('E:\\Android_studio\\NewPojects\\CodeCanyon\\PlaxV2.2\\main\\Plax\\CodeSlu')
+            storePassword 'cs123456'
+            keyAlias = 'plax'
+            keyPassword 'cs123456'
+        }

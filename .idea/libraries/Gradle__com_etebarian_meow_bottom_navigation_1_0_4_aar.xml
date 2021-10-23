@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.etebarian:meow-bottom-navigation:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5579474ed42d1276c7fa6d316c451394/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5579474ed42d1276c7fa6d316c451394/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5579474ed42d1276c7fa6d316c451394/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

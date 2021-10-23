@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.klinkerapps:simple_videoview:1.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f0ea8bb4d7691bb76973411eb75a05d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f0ea8bb4d7691bb76973411eb75a05d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f0ea8bb4d7691bb76973411eb75a05d/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

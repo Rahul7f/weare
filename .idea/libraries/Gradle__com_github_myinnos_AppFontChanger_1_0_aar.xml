@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.myinnos:AppFontChanger:1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/333944ba1aea0e240571d17d752e3380/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/333944ba1aea0e240571d17d752e3380/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/333944ba1aea0e240571d17d752e3380/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

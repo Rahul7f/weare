@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.tonnyl:light:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65794caa8c6c8b0c39856b52ba64b147/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65794caa8c6c8b0c39856b52ba64b147/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65794caa8c6c8b0c39856b52ba64b147/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
